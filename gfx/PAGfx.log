@@ -1,0 +1,55 @@
+PAGfx Converter v0.10 -- by Mollusk -- resurrected by fincs -- forum.palib.info
+If you have suggestions, problems or anything please come to the PAlib forums
+
+Converting PAGfx.ini
+Transparent Color: Magenta
+
+31 sprites:
+  Zone: 256colors, 64x32, Pal: Title_Pal, -> Zone_Sprite
+  Assistive: 256colors, 64x32, Pal: Title_Pal, -> Assistive_Sprite
+  AutoAssist: 256colors, 64x64, Pal: Type_Pal, -> AutoAssist_Sprite
+  AutoTab: 256colors, 64x64, Pal: Tab_Pal, -> AutoTab_Sprite
+  BlankTab: 256colors, 64x32, Pal: Tab_Pal, -> BlankTab_Sprite
+  BlankTitle: 256colors, 64x32, Pal: Title_Pal, -> BlankTitle_Sprite
+  BlankType: 256colors, 64x32, Pal: Type_Pal, -> BlankType_Sprite
+  BotsonPlatform: 256colors, 64x32, Pal: Title_Pal, -> BotsonPlatform_Sprite
+  CheckBox: 256colors, 16x32, Pal: CheckBox_Pal, -> CheckBox_Sprite
+  Defense: 256colors, 64x64, Pal: Type_Pal, -> Defense_Sprite
+  Defensive: 256colors, 64x32, Pal: Title_Pal, -> Defensive_Sprite
+  Disabled: 256colors, 64x32, Pal: Title_Pal, -> Disabled_Sprite
+  EndTab: 256colors, 64x64, Pal: Tab_Pal, -> EndTab_Sprite
+  HasAuto: 256colors, 64x32, Pal: Title_Pal, -> HasAuto_Sprite
+  Number: 256colors, 8x160, Pal: Number_Pal, -> Number_Sprite
+  One: 256colors, 64x64, Pal: Type_Pal, -> One_Sprite
+  OnPlatform: 256colors, 64x32, Pal: Title_Pal, -> OnPlatform_Sprite
+  Other: 256colors, 64x64, Pal: Type_Pal, -> Other_Sprite
+  Penalties: 256colors, 64x32, Pal: Title_Pal, -> Penalties_Sprite
+  PlatformEqual: 256colors, 64x32, Pal: Title_Pal, -> PlatformEqual_Sprite
+  PtfmTab: 256colors, 64x64, Pal: Tab_Pal, -> PtfmTab_Sprite
+  Rack: 256colors, 64x32, Pal: Title_Pal, -> Rack_Sprite
+  red_penalty: 256colors, 64x64, Pal: Type_Pal, -> red_penalty_Sprite
+  RedBlue: 256colors, 64x64, Pal: Type_Pal, -> RedBlue_Sprite
+  StixPickedUp: 256colors, 64x32, Pal: Title_Pal, -> StixPickedUp_Sprite
+  TeleTab: 256colors, 64x64, Pal: Tab_Pal, -> TeleTab_Sprite
+  Three: 256colors, 64x64, Pal: Type_Pal, -> Three_Sprite
+  Trough: 256colors, 64x32, Pal: Title_Pal, -> Trough_Sprite
+  Two: 256colors, 64x64, Pal: Type_Pal, -> Two_Sprite
+  yellow_penalty: 256colors, 64x64, Pal: Type_Pal, -> yellow_penalty_Sprite
+  Finish: 256colors, 64x32, Pal: Type_Pal, -> Finish_Sprite
+
+2 backgrounds:
+  FieldBackground : EasyBg, 256x192, Pal: FieldBackground_Pal, 20 tiles -> FieldBackground_Tiles and FieldBackground_Map
+  BGBlank : EasyBg, 256x192, Pal: BGBlank_Pal, 1 tiles -> BGBlank_Tiles and BGBlank_Map
+
+7 palettes:
+  Title_Pal, 2 colors
+  Type_Pal, 7 colors
+  Tab_Pal, 5 colors
+  CheckBox_Pal, 4 colors
+  Number_Pal, 2 colors
+  FieldBackground_Pal, 6 colors
+  BGBlank_Pal, 1 colors
+
+Converted in 0 minutes and 0 seconds
+
+Finished!

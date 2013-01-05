@@ -1,0 +1,35 @@
+PickUpStix Game
+
+	
+
+Autonomous Tab
+
+	has auto?
+	auto strategy - off, ast, oth
+	# of stix scored
+		zone
+		trough
+		rack
+
+Tele Tab
+
+	disabled?
+	# of stix scored
+		zone
+		trough
+		rack
+
+Platform Tab
+
+	this robot on or not?
+	# of robots from each alliance equal or not?
+	# of same alliance robots on platform
+
+End Tab
+
+	defensive?
+	assistive?
+	
+	# penalties
+
+	
